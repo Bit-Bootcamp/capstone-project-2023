@@ -31,3 +31,6 @@ Back-End : https://github.com/moein9/software-marketplace-backend
 10. Rozh Bahman:
 Front-End: https://github.com/rozhi-98/Niqem-Frontend
 Back-End: https://github.com/rozhi-98/Niqem-Backend
+11. Hevar tofiq:
+12. Front-End: https://github.com/RageOfKurd/Fitness-Frontend
+13. Back-End: https://github.com/RageOfKurd/Fitness-Backend
