@@ -25,6 +25,6 @@ Back-End : https://github.com/shazyarabubakr/furniture-backend
 8. Bishwan Sherko:
 Front-End : https://github.com/bishwan00/pet-store-frontEnd
 Back-End : https://github.com/bishwan00/pet-store-backEnd
-9. Sozi Akram:
-Front-End: https://github.com/soziakram/armystore-frontend.git
-Back-End: https://github.com/soziakram/armystore-backend.git
+9. moein Abas:
+Front-End : https://github.com/moein9/software-marketplace-frontend
+Back-End : https://github.com/moein9/software-marketplace-backend
