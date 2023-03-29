@@ -19,3 +19,6 @@ Back-End: https://github.com/marshallmhamad/Clothes-Line-Backend
 6. Sana Rizgar :
 Front-End:https://github.com/Sanaa00/Candle-Store-FrontEnd
 Back-End :https://github.com/Sanaa00/Candle-Store-BackEnd
+7. Shazyar Abubakr : 
+Front-End : https://github.com/shazyarabubakr/furniture-frontend
+Back-End : https://github.com/shazyarabubakr/furniture-backend
