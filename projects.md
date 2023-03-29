@@ -40,6 +40,6 @@ Front-End: https://github.com/h4m41/Kbid-FrontEnd
 Back-End: https://github.com/h4m41/Kbid-BackEnd
 14. Shahen Hassan [frontend](https://github.com/ShahenHassan/Frontend) | [backend](https://github.com/ShahenHassan/Backend)
 15. Aland Mustafa: [frontend](https://github.com/Alaaaand/online-shopping-front-end.git) | [backend](https://github.com/Alaaaand/online-shopping-backend.git)
-16. lanya yousif :[frontend](https://github.com/lanyayousif/Ecommerce_FrontEnd.git) | [backend] (https://github.com/lanyayousif/Ecommerce_backend.git)
+16. lanya yousif :[frontend](https://github.com/lanyayousif/Ecommerce_FrontEnd.git) | [backend](https://github.com/lanyayousif/Ecommerce_backend.git)
 
  
