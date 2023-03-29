@@ -23,5 +23,5 @@ Back-End :https://github.com/Sanaa00/Candle-Store-BackEnd
 Front-End : https://github.com/shazyarabubakr/furniture-frontend
 Back-End : https://github.com/shazyarabubakr/furniture-backend
 8. Bishwan Sherko:
-Front-End : git@github.com:bishwan00/pet-store-frontEnd.git
-Back-End : git@github.com:bishwan00/pet-store-backEnd.git
+Front-End : https://github.com/bishwan00/pet-store-frontEnd
+Back-End : https://github.com/bishwan00/pet-store-backEnd
