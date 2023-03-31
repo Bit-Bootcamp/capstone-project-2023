@@ -32,8 +32,8 @@ Back-End : https://github.com/moein9/software-marketplace-backend
 Front-End: https://github.com/rozhi-98/Niqem-Frontend
 Back-End: https://github.com/rozhi-98/Niqem-Backend
 11. **Hevar tofiq**:
-   Front-End: https://github.com/RageOfKurd/Fitness-Frontend
-   Back-End: https://github.com/RageOfKurd/Fitness-Backend
+   [Front-End](https://github.com/RageOfKurd/Fitness-Frontend)|
+   [Back-End](https://github.com/RageOfKurd/Fitness-Backend)
  12. Sozan Khalil [front-end](https://github.com/sozankhalil/asan-frontend)| [backend](https://github.com/sozankhalil/asan-backend)
  13.  Mohammed Ahmed:
 Front-End: https://github.com/h4m41/Kbid-FrontEnd
