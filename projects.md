@@ -18,7 +18,7 @@ Back-End: https://github.com/nwahameed/ferba-backend
 Front-End:https://github.com/Sanaa00/Candle-Store-FrontEnd
 Back-End :https://github.com/Sanaa00/candleStore-Backend.git
  [backend](https://candlesss.onrender.com/)
-[frontend](https://github.com/rayansalah11/Cars-Auto-backend.git](https://candle-store.netlify.app/)
+[frontend](https://candle-store.netlify.app/)
 8. Shazyar Abubakr : 
 Front-End : https://github.com/shazyarabubakr/furniture-frontend
 Back-End : https://github.com/shazyarabubakr/furniture-backend
