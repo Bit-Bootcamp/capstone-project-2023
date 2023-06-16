@@ -17,30 +17,32 @@ Back-End: https://github.com/nwahameed/ferba-backend
 6. Sana Rizgar :
 Front-End:https://github.com/Sanaa00/Candle-Store-FrontEnd
 Back-End :https://github.com/Sanaa00/candleStore-Backend.git
-7. Shazyar Abubakr : 
+ [backend](https://candlesss.onrender.com/)
+[frontend](https://github.com/rayansalah11/Cars-Auto-backend.git](https://candle-store.netlify.app/)
+8. Shazyar Abubakr : 
 Front-End : https://github.com/shazyarabubakr/furniture-frontend
 Back-End : https://github.com/shazyarabubakr/furniture-backend
-8. Bishwan Sherko:
+9. Bishwan Sherko:
 Front-End : https://github.com/bishwan00/pet-store-frontEnd
 Back-End : https://github.com/bishwan00/pet-store-backEnd
-9. moein Abas:
+10. moein Abas:
 Front-End : https://github.com/moein9/software-marketplace-frontend
 Back-End : https://github.com/moein9/software-marketplace-backend
-10. Rozh Bahman:
+11. Rozh Bahman:
 Front-End: https://github.com/rozhi-98/Niqem-Frontend
 Back-End: https://github.com/rozhi-98/Niqem-Backend
-11. **Hevar tofiq**:
+12. **Hevar tofiq**:
    [Front-End](https://github.com/RageOfKurd/pallawan-frontend) |
    [Back-End](https://github.com/RageOfKurd/Fitness-Backend)
- 12. Sozan Khalil [front-end](https://github.com/sozankhalil/asan-frontend)| [backend](https://github.com/sozankhalil/asan-backend)
- 13.  Mohammed Ahmed:
+ 13. Sozan Khalil [front-end](https://github.com/sozankhalil/asan-frontend)| [backend](https://github.com/sozankhalil/asan-backend)
+ 14.  Mohammed Ahmed:
 Front-End: https://github.com/h4m41/Kbid-FrontEnd
 Back-End: https://github.com/h4m41/Kbid-BackEnd
-14. Shahen Hassan [frontend](https://github.com/ShahenHassan/Frontend) | [backend](https://github.com/ShahenHassan/Backend)
-15. Aland Mustafa: [frontend](https://github.com/Alaaaand/online-shopping-front-end.git) | [backend](https://github.com/Alaaaand/online-shopping-backend.git)
-16. lanya yousif :[frontend](https://github.com/lanyayousif/makeup-skincare-Ecommerce-project.git) | [backend](https://github.com/lanyayousif/Ecommerce_backend.git)
-17. Yahya Hiwa :[frontend](https://github.com/yahyahiwa3/bikra-ecommerce-website.git) | [backend](https://github.com/yahyahiwa3/Bikra-backend.git)
-18. Shajwan Namiq :[frontend](https://github.com/Shajwan-Namiq/BazaryGawra-Frontend) | [backend](https://github.com/Shajwan-Namiq/BazaryGawra-Backend)
-19. ehsan muhamad :[frontend](https://github.com/wecho12/Frontend)| [backend](https://github.com/wecho12/Frontend/tree/master/Backend)
+15. Shahen Hassan [frontend](https://github.com/ShahenHassan/Frontend) | [backend](https://github.com/ShahenHassan/Backend)
+16. Aland Mustafa: [frontend](https://github.com/Alaaaand/online-shopping-front-end.git) | [backend](https://github.com/Alaaaand/online-shopping-backend.git)
+17. lanya yousif :[frontend](https://github.com/lanyayousif/makeup-skincare-Ecommerce-project.git) | [backend](https://github.com/lanyayousif/Ecommerce_backend.git)
+18. Yahya Hiwa :[frontend](https://github.com/yahyahiwa3/bikra-ecommerce-website.git) | [backend](https://github.com/yahyahiwa3/Bikra-backend.git)
+19. Shajwan Namiq :[frontend](https://github.com/Shajwan-Namiq/BazaryGawra-Frontend) | [backend](https://github.com/Shajwan-Namiq/BazaryGawra-Backend)
+20. ehsan muhamad :[frontend](https://github.com/wecho12/Frontend)| [backend](https://github.com/wecho12/Frontend/tree/master/Backend)
 
  
