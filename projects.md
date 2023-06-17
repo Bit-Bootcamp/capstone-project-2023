@@ -41,7 +41,7 @@ Back-End: https://github.com/h4m41/shopbackend
 15. Shahen Hassan [frontend](https://github.com/ShahenHassan/Frontend) | [backend](https://github.com/ShahenHassan/Backend)
 16. Aland Mustafa: [frontend](https://github.com/Alaaaand/online-shopping-front-end.git) | [backend](https://github.com/Alaaaand/online-shopping-backend.git)
 17. lanya yousif :[frontend](https://github.com/lanyayousif/makeup-skincare-Ecommerce-project.git) | [backend](https://github.com/lanyayousif/Ecommerce_backend.git)
-18. Yahya Hiwa :[frontend](https://github.com/yahyahiwa3/bikra-ecommerce-website.git) | [backend](https://github.com/yahyahiwa3/Bikra-backend.git)
+18. Yahya Hiwa :[frontend](https://github.com/yahyahiwa3/bikra-ecommerce-website.git) | [backend](https://github.com/yahyahiwa3/Bikra-backend.git) ,Deploy Link [Front-end](https://bikra.netlify.app/) | [Back-End](https://bikra-backend.onrender.com/)
 19. Shajwan Namiq :[frontend](https://github.com/Shajwan-Namiq/BazaryGawra-Frontend) | [backend](https://github.com/Shajwan-Namiq/BazaryGawra-Backend)
 20. ehsan muhamad :[frontend](https://github.com/wecho12/Frontend)| [backend](https://github.com/wecho12/Frontend/tree/master/Backend)
 
